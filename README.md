@@ -1,5 +1,5 @@
 # VStuning_project
-This repository is for the analysis of VS neuron recordings developped in the [Bagnall Lab](http://pcg.wustl.edu/bagnalllab/).
+This repository is for the analysis of VS neuron recordings developped in the [Bagnall Lab](http://pcg.wustl.edu/bagnalllab/). All codes are written in Matlab
 
 Please see specifics in our paper: [Central vestibular tuning arises from patterned convergence of otolith afferents.](https://www.biorxiv.org/content/10.1101/2020.02.14.948356v1)
 
